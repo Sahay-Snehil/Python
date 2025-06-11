@@ -16,5 +16,5 @@ print(n_2list)
 if n_list == n_2list:
     print("Strings are anagrams")
 else:
-    print("Strings are not anagrams")
+    print("Strings are not anagrams!!")
 
